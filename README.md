@@ -1,4 +1,5 @@
 [![bytebeats's GitHub stats](https://github-readme-stats.vercel.app/api?username=bytebeats&show_icons=ture&theme=radical&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bytebeats&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [comment]: <> ([![Readme Card]&#40;https://github-readme-stats.vercel.app/api/pin/?username=bytebeats&show_owner=true&repo=bytebeats&#41;]&#40;https://github.com/anuraghazra/github-readme-stats&#41;)
