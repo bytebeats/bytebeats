@@ -1,5 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=bytebeats&color=blueviolet&style=flat)
 <br>
+https://github-profile-trophy.vercel.app/?username=bytebeats&theme=tokyonight
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bytebeats&layout=compact&theme=radical&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 <br>
